@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" contentScriptType="application/ecmascript" contentStyleType="text/css" height="1362.5px" preserveAspectRatio="none" style="width:1125px;height:1362px;background:#FFFFFF;" version="1.1" viewBox="0 0 1125 1362" width="1125px" zoomAndPan="magnify"><defs><filter height="300%" id="f1biqe93wpwyn6" width="300%" x="-1" y="-1"><feGaussianBlur result="blurOut" stdDeviation="6.25"/><feColorMatrix in="blurOut" result="blurOut2" type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 .4 0"/><feOffset dx="12.5" dy="12.5" in="blurOut2" result="blurOut3"/><feBlend in="SourceGraphic" in2="blurOut3" mode="normal"/></filter></defs><g><!--MD5=[f965c81e7761664f64d66864a37cf782]
+class posts--><rect codeLine="20" fill="#FEFECE" filter="url(#f1biqe93wpwyn6)" height="614.9658" id="posts" style="stroke:#A80036;stroke-width:4.6875;" width="590.625" x="265.625" y="21.875"/><ellipse cx="475.7813" cy="81.1523" fill="#FFAAAA" rx="34.375" ry="34.375" style="stroke:#A80036;stroke-width:3.125;"/><path d="M478.418,102.2461 L470.752,102.2461 L470.752,70.2148 L460.9375,70.2148 L460.9375,63.5254 L488.2324,63.5254 L488.2324,70.2148 L478.418,70.2148 L478.418,102.2461 Z " fill="#000000"/><text fill="#000000" font-family="sans-serif" font-size="37.5" lengthAdjust="spacing" textLength="109.375" x="557.0313" y="72.3083">posts</text><text fill="#000000" font-family="sans-serif" font-size="37.5" lengthAdjust="spacing" textLength="143.75" x="539.8438" y="115.9607">(文章表)</text><line style="stroke:#A80036;stroke-width:4.6875;" x1="268.75" x2="853.125" y1="140.4297" y2="140.4297"/><text fill="#000000" font-family="sans-serif" font-size="34.375" font-weight="bold" lengthAdjust="spacing" textLength="37.5" x="284.375" y="184.8373">id</text><text fill="#000000" font-family="sans-serif" font-size="34.375" lengthAdjust="spacing" textLength="0" x="334.375" y="184.8373"/><text fill="#4169E1" font-family="sans-serif" font-size="25" lengthAdjust="spacing" textLength="162.5" x="334.375" y="184.8999">U_BIGINT[20]</text><text fill="#000000" font-family="sans-serif" font-size="34.375" lengthAdjust="spacing" textLength="187.5" x="284.375" y="224.852">created_at</text><text fill="#4169E1" font-family="sans-serif" font-size="25" lengthAdjust="spacing" textLength="143.75" x="484.375" y="224.9146">TIMESTAMP</text><text fill="#000000" font-family="sans-serif" font-size="34.375" lengthAdjust="spacing" textLength="196.875" x="284.375" y="264.8666">updated_at</text><text fill="#4169E1" font-family="sans-serif" font-size="25" lengthAdjust="spacing" textLength="143.75" x="493.75" y="264.9292">TIMESTAMP</text><text fill="#000000" font-family="sans-serif" font-size="34.375" lengthAdjust="spacing" textLength="184.375" x="284.375" y="304.8813">deleted_at</text><text fill="#4169E1" font-family="sans-serif" font-size="25" lengthAdjust="spacing" textLength="143.75" x="481.25" y="304.9438">TIMESTAMP</text><text fill="#000000" font-family="sans-serif" font-size="34.375" lengthAdjust="spacing" text-decoration="underline" textLength="65.625" x="284.375" y="344.8959">title</text><text fill="#000000" font-family="sans-serif" font-size="34.375" lengthAdjust="spacing" textLength="0" x="362.5" y="344.8959"/><text fill="#4169E1" font-family="sans-serif" font-size="25" lengthAdjust="spacing" textLength="190.625" x="362.5" y="344.9585">NVARCHAR[30]</text><text fill="#008000" font-family="sans-serif" font-size="25" lengthAdjust="spacing" textLength="50" x="562.5" y="344.9585">标题</text><text fill="#000000" font-family="sans-serif" font-size="34.375" lengthAdjust="spacing" text-decoration="underline" textLength="112.5" x="284.375" y="384.9106">status</text><text fill="#000000" font-family="sans-serif" font-size="34.375" lengthAdjust="spacing" textLength="0" x="409.375" y="384.9106"/><text fill="#4169E1" font-family="sans-serif" font-size="25" lengthAdjust="spacing" textLength="128.125" x="409.375" y="384.9731">U_TINYINT</text><text fill="#4169E1" font-family="sans-serif" font-size="25" lengthAdjust="spacing" text-decoration="underline" textLength="15.625" x="546.875" y="384.9731">1</text><text fill="#4169E1" font-family="sans-serif" font-size="25" lengthAdjust="spacing" textLength="0" x="571.875" y="384.9731"/><text fill="#008000" font-family="sans-serif" font-size="25" lengthAdjust="spacing" textLength="50" x="571.875" y="384.9731">状态</text><text fill="#808080" font-family="sans-serif" font-size="25" font-style="italic" lengthAdjust="spacing" textLength="218.75" x="284.375" y="416.2231">“1:草稿; 2:已发布”</text><text fill="#000000" font-family="sans-serif" font-size="34.375" lengthAdjust="spacing" text-decoration="underline" textLength="121.875" x="284.375" y="456.1752">source</text><text fill="#000000" font-family="sans-serif" font-size="34.375" lengthAdjust="spacing" textLength="0" x="418.75" y="456.1752"/><text fill="#4169E1" font-family="sans-serif" font-size="25" lengthAdjust="spacing" textLength="128.125" x="418.75" y="456.2378">U_TINYINT</text><text fill="#008000" font-family="sans-serif" font-size="25" lengthAdjust="spacing" textLength="281.25" x="556.25" y="456.2378">来源：1，原创；2，转载</text><text fill="#000000" font-family="sans-serif" font-size="34.375" lengthAdjust="spacing" text-decoration="underline" textLength="203.125" x="284.375" y="496.1899">category_id</text><text fill="#000000" font-family="sans-serif" font-size="34.375" lengthAdjust="spacing" textLength="0" x="500" y="496.1899"/><text fill="#4169E1" font-family="sans-serif" font-size="25" lengthAdjust="spacing" textLength="162.5" x="500" y="496.2524">U_BIGINT[20]</text><text fill="#008000" font-family="sans-serif" font-size="25" lengthAdjust="spacing" textLength="50" x="671.875" y="496.2524">分类</text><text fill="#000000" font-family="sans-serif" font-size="34.375" lengthAdjust="spacing" text-decoration="underline" textLength="193.75" x="284.375" y="536.2045">created_by</text><text fill="#000000" font-family="sans-serif" font-size="34.375" lengthAdjust="spacing" textLength="0" x="490.625" y="536.2045"/><text fill="#4169E1" font-family="sans-serif" font-size="25" lengthAdjust="spacing" textLength="162.5" x="490.625" y="536.2671">U_BIGINT[20]</text><text fill="#4169E1" font-family="sans-serif" font-size="25" lengthAdjust="spacing" text-decoration="underline" textLength="15.625" x="662.5" y="536.2671">0</text><text fill="#4169E1" font-family="sans-serif" font-size="25" lengthAdjust="spacing" textLength="0" x="687.5" y="536.2671"/><text fill="#008000" font-family="sans-serif" font-size="25" lengthAdjust="spacing" textLength="100" x="687.5" y="536.2671">创建者ID</text><text fill="#000000" font-family="sans-serif" font-size="34.375" lengthAdjust="spacing" textLength="225" x="284.375" y="576.2192">published_at</text><text fill="#4169E1" font-family="sans-serif" font-size="25" lengthAdjust="spacing" textLength="125" x="521.875" y="576.2817">DATETIME</text><text fill="#008000" font-family="sans-serif" font-size="25" lengthAdjust="spacing" textLength="100" x="656.25" y="576.2817">发表时间</text><text fill="#000000" font-family="sans-serif" font-size="34.375" lengthAdjust="spacing" text-decoration="underline" textLength="131.25" x="284.375" y="616.2338">content</text><text fill="#000000" font-family="sans-serif" font-size="34.375" lengthAdjust="spacing" textLength="0" x="428.125" y="616.2338"/><text fill="#4169E1" font-family="sans-serif" font-size="25" lengthAdjust="spacing" textLength="62.5" x="428.125" y="616.2964">TEXT</text><text fill="#008000" font-family="sans-serif" font-size="25" lengthAdjust="spacing" textLength="50" x="500" y="616.2964">内容</text><!--MD5=[ffea0c25cc794db9280a5614eef8b091]
+class comments--><rect codeLine="32" fill="#FEFECE" filter="url(#f1biqe93wpwyn6)" height="423.6572" id="comments" style="stroke:#A80036;stroke-width:4.6875;" width="496.875" x="21.875" y="859.375"/><ellipse cx="155.9375" cy="918.6523" fill="#FFAAAA" rx="34.375" ry="34.375" style="stroke:#A80036;stroke-width:3.125;"/><path d="M158.5742,939.7461 L150.9082,939.7461 L150.9082,907.7148 L141.0938,907.7148 L141.0938,901.0254 L168.3887,901.0254 L168.3887,907.7148 L158.5742,907.7148 L158.5742,939.7461 Z " fill="#000000"/><text fill="#000000" font-family="sans-serif" font-size="37.5" lengthAdjust="spacing" textLength="203.125" x="219.0625" y="909.8083">comments</text><text fill="#000000" font-family="sans-serif" font-size="37.5" lengthAdjust="spacing" textLength="143.75" x="248.75" y="953.4607">(评论表)</text><line style="stroke:#A80036;stroke-width:4.6875;" x1="25" x2="515.625" y1="977.9297" y2="977.9297"/><text fill="#000000" font-family="sans-serif" font-size="34.375" font-weight="bold" lengthAdjust="spacing" textLength="37.5" x="40.625" y="1022.3373">id</text><text fill="#000000" font-family="sans-serif" font-size="34.375" lengthAdjust="spacing" textLength="0" x="90.625" y="1022.3373"/><text fill="#4169E1" font-family="sans-serif" font-size="25" lengthAdjust="spacing" textLength="162.5" x="90.625" y="1022.3999">U_BIGINT[20]</text><text fill="#000000" font-family="sans-serif" font-size="34.375" lengthAdjust="spacing" textLength="187.5" x="40.625" y="1062.352">created_at</text><text fill="#4169E1" font-family="sans-serif" font-size="25" lengthAdjust="spacing" textLength="143.75" x="240.625" y="1062.4146">TIMESTAMP</text><text fill="#000000" font-family="sans-serif" font-size="34.375" lengthAdjust="spacing" textLength="196.875" x="40.625" y="1102.3666">updated_at</text><text fill="#4169E1" font-family="sans-serif" font-size="25" lengthAdjust="spacing" textLength="143.75" x="250" y="1102.4292">TIMESTAMP</text><text fill="#000000" font-family="sans-serif" font-size="34.375" lengthAdjust="spacing" textLength="184.375" x="40.625" y="1142.3813">deleted_at</text><text fill="#4169E1" font-family="sans-serif" font-size="25" lengthAdjust="spacing" textLength="143.75" x="237.5" y="1142.4438">TIMESTAMP</text><text fill="#000000" font-family="sans-serif" font-size="34.375" lengthAdjust="spacing" text-decoration="underline" textLength="128.125" x="40.625" y="1182.3959">post_id</text><text fill="#000000" font-family="sans-serif" font-size="34.375" lengthAdjust="spacing" textLength="0" x="181.25" y="1182.3959"/><text fill="#4169E1" font-family="sans-serif" font-size="25" lengthAdjust="spacing" textLength="162.5" x="181.25" y="1182.4585">U_BIGINT[20]</text><text fill="#008000" font-family="sans-serif" font-size="25" lengthAdjust="spacing" textLength="75" x="353.125" y="1182.4585">文章ID</text><text fill="#000000" font-family="sans-serif" font-size="34.375" lengthAdjust="spacing" text-decoration="underline" textLength="131.25" x="40.625" y="1222.4106">user_id</text><text fill="#000000" font-family="sans-serif" font-size="34.375" lengthAdjust="spacing" textLength="0" x="184.375" y="1222.4106"/><text fill="#4169E1" font-family="sans-serif" font-size="25" lengthAdjust="spacing" textLength="162.5" x="184.375" y="1222.4731">U_BIGINT[20]</text><text fill="#008000" font-family="sans-serif" font-size="25" lengthAdjust="spacing" textLength="75" x="356.25" y="1222.4731">用户ID</text><text fill="#000000" font-family="sans-serif" font-size="34.375" lengthAdjust="spacing" text-decoration="underline" textLength="131.25" x="40.625" y="1262.4252">content</text><text fill="#000000" font-family="sans-serif" font-size="34.375" lengthAdjust="spacing" textLength="0" x="184.375" y="1262.4252"/><text fill="#4169E1" font-family="sans-serif" font-size="25" lengthAdjust="spacing" textLength="206.25" x="184.375" y="1262.4878">NVARCHAR[255]</text><text fill="#008000" font-family="sans-serif" font-size="25" lengthAdjust="spacing" textLength="100" x="400" y="1262.4878">评论内容</text><!--MD5=[0969a235585b7e767e31d1c33fe98db4]
+class post_logs--><rect codeLine="40" fill="#FEFECE" filter="url(#f1biqe93wpwyn6)" height="494.9219" id="post_logs" style="stroke:#A80036;stroke-width:4.6875;" width="453.125" x="628.125" y="825"/><ellipse cx="735.4688" cy="884.2773" fill="#FFAAAA" rx="34.375" ry="34.375" style="stroke:#A80036;stroke-width:3.125;"/><path d="M738.1055,905.3711 L730.4395,905.3711 L730.4395,873.3398 L720.625,873.3398 L720.625,866.6504 L747.9199,866.6504 L747.9199,873.3398 L738.1055,873.3398 L738.1055,905.3711 Z " fill="#000000"/><text fill="#000000" font-family="sans-serif" font-size="37.5" lengthAdjust="spacing" textLength="187.5" x="808.2812" y="875.4333">post_logs</text><text fill="#000000" font-family="sans-serif" font-size="37.5" lengthAdjust="spacing" textLength="218.75" x="792.6563" y="919.0857">(文章日志表)</text><line style="stroke:#A80036;stroke-width:4.6875;" x1="631.25" x2="1078.125" y1="943.5547" y2="943.5547"/><text fill="#000000" font-family="sans-serif" font-size="34.375" font-weight="bold" lengthAdjust="spacing" textLength="37.5" x="646.875" y="987.9623">id</text><text fill="#000000" font-family="sans-serif" font-size="34.375" lengthAdjust="spacing" textLength="0" x="696.875" y="987.9623"/><text fill="#4169E1" font-family="sans-serif" font-size="25" lengthAdjust="spacing" textLength="162.5" x="696.875" y="988.0249">U_BIGINT[20]</text><text fill="#000000" font-family="sans-serif" font-size="34.375" lengthAdjust="spacing" textLength="187.5" x="646.875" y="1027.977">created_at</text><text fill="#4169E1" font-family="sans-serif" font-size="25" lengthAdjust="spacing" textLength="143.75" x="846.875" y="1028.0396">TIMESTAMP</text><text fill="#000000" font-family="sans-serif" font-size="34.375" lengthAdjust="spacing" textLength="196.875" x="646.875" y="1067.9916">updated_at</text><text fill="#4169E1" font-family="sans-serif" font-size="25" lengthAdjust="spacing" textLength="143.75" x="856.25" y="1068.0542">TIMESTAMP</text><text fill="#000000" font-family="sans-serif" font-size="34.375" lengthAdjust="spacing" textLength="184.375" x="646.875" y="1108.0063">deleted_at</text><text fill="#4169E1" font-family="sans-serif" font-size="25" lengthAdjust="spacing" textLength="143.75" x="843.75" y="1108.0688">TIMESTAMP</text><text fill="#000000" font-family="sans-serif" font-size="34.375" lengthAdjust="spacing" text-decoration="underline" textLength="128.125" x="646.875" y="1148.0209">post_id</text><text fill="#000000" font-family="sans-serif" font-size="34.375" lengthAdjust="spacing" textLength="0" x="787.5" y="1148.0209"/><text fill="#4169E1" font-family="sans-serif" font-size="25" lengthAdjust="spacing" textLength="162.5" x="787.5" y="1148.0835">U_BIGINT[20]</text><text fill="#008000" font-family="sans-serif" font-size="25" lengthAdjust="spacing" textLength="75" x="959.375" y="1148.0835">文章ID</text><text fill="#000000" font-family="sans-serif" font-size="34.375" lengthAdjust="spacing" text-decoration="underline" textLength="131.25" x="646.875" y="1188.0356">user_id</text><text fill="#000000" font-family="sans-serif" font-size="34.375" lengthAdjust="spacing" textLength="0" x="790.625" y="1188.0356"/><text fill="#4169E1" font-family="sans-serif" font-size="25" lengthAdjust="spacing" textLength="162.5" x="790.625" y="1188.0981">U_BIGINT[20]</text><text fill="#008000" font-family="sans-serif" font-size="25" lengthAdjust="spacing" textLength="100" x="962.5" y="1188.0981">操作者ID</text><text fill="#000000" font-family="sans-serif" font-size="34.375" lengthAdjust="spacing" text-decoration="underline" textLength="106.25" x="646.875" y="1228.0502">action</text><text fill="#000000" font-family="sans-serif" font-size="34.375" lengthAdjust="spacing" textLength="0" x="765.625" y="1228.0502"/><text fill="#4169E1" font-family="sans-serif" font-size="25" lengthAdjust="spacing" textLength="128.125" x="765.625" y="1228.1128">U_TINYINT</text><text fill="#4169E1" font-family="sans-serif" font-size="25" lengthAdjust="spacing" text-decoration="underline" textLength="15.625" x="903.125" y="1228.1128">0</text><text fill="#4169E1" font-family="sans-serif" font-size="25" lengthAdjust="spacing" textLength="0" x="928.125" y="1228.1128"/><text fill="#008000" font-family="sans-serif" font-size="25" lengthAdjust="spacing" textLength="100" x="928.125" y="1228.1128">操作类型</text><text fill="#808080" font-family="sans-serif" font-size="25" font-style="italic" lengthAdjust="spacing" textLength="287.5" x="646.875" y="1259.3628">“1:创建; 2:修改; 3:删除”</text><text fill="#000000" font-family="sans-serif" font-size="34.375" lengthAdjust="spacing" textLength="78.125" x="646.875" y="1299.3149">data</text><text fill="#4169E1" font-family="sans-serif" font-size="25" lengthAdjust="spacing" textLength="62.5" x="737.5" y="1299.3774">TEXT</text><text fill="#008000" font-family="sans-serif" font-size="25" lengthAdjust="spacing" textLength="100" x="809.375" y="1299.3774">操作详情</text><!--MD5=[57d07f60e2939c99b71ad9eb1f0ca190]
+link posts to comments--><path codeLine="49" d="M392.1875,663 C392.1875,663 392.1875,833.2812 392.1875,833.2812 " fill="none" id="posts-comments" style="stroke:#A80036;stroke-width:3.125;stroke-dasharray:7.0,7.0;"/><line style="stroke:#A80036;stroke-width:3.125;" x1="392.1875" x2="410.9375" y1="833.2812" y2="858.2812"/><line style="stroke:#A80036;stroke-width:3.125;" x1="392.1875" x2="373.4375" y1="833.2812" y2="858.2812"/><line style="stroke:#A80036;stroke-width:3.125;" x1="392.1875" x2="392.1875" y1="833.2812" y2="858.2812"/><ellipse cx="392.1875" cy="814.5312" rx="12.5" ry="12.5" style="stroke:#A80036;stroke-width:3.125;fill:none;"/><line style="stroke:#A80036;stroke-width:3.125;fill:none;" x1="379.6875" x2="404.6875" y1="650.5" y2="650.5"/><line style="stroke:#A80036;stroke-width:3.125;fill:none;" x1="379.6875" x2="404.6875" y1="659.875" y2="659.875"/><line style="stroke:#A80036;stroke-width:3.125;fill:none;" x1="392.1875" x2="392.1875" y1="663" y2="638"/><!--MD5=[a706af8a032dfe92daa4b9e8734beae9]
+link posts to post_logs--><path codeLine="50" d="M742.1875,663 C742.1875,663 742.1875,799.4063 742.1875,799.4063 " fill="none" id="posts-post_logs" style="stroke:#A80036;stroke-width:3.125;stroke-dasharray:7.0,7.0;"/><line style="stroke:#A80036;stroke-width:3.125;" x1="742.1875" x2="760.9375" y1="799.4063" y2="824.4063"/><line style="stroke:#A80036;stroke-width:3.125;" x1="742.1875" x2="723.4375" y1="799.4063" y2="824.4063"/><line style="stroke:#A80036;stroke-width:3.125;" x1="742.1875" x2="742.1875" y1="799.4063" y2="824.4063"/><line style="stroke:#A80036;stroke-width:3.125;" x1="754.6875" x2="729.6875" y1="793.1563" y2="793.1563"/><line style="stroke:#A80036;stroke-width:3.125;" x1="729.6875" x2="754.6875" y1="650.5" y2="650.5"/><line style="stroke:#A80036;stroke-width:3.125;" x1="729.6875" x2="754.6875" y1="659.875" y2="659.875"/><line style="stroke:#A80036;stroke-width:3.125;" x1="742.1875" x2="742.1875" y1="663" y2="638"/><!--MD5=[3806386735c8ec70a37d80a1de21ee06]
+@startuml
+!include https://raw.githubusercontent.com/xbot/plantuml-erd/master/src/Library.iuml
+
+' avoid problems with angled crows feet
+skinparam linetype ortho
+
+''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''
+' Entities
+'
+' Relationships
+' one-to-one relationship
+'     user - - user_profile : "A user only \nhas one profile"
+' one to may relationship
+'     user - -> session : "A user may have\n many sessions"
+' many to many relationship
+' Add mark if you like
+'     user "1" - -> "*" user_group : "A user may be \nin many groups"
+'     group "1" - -> "0..N" user_group : "A group may \ncontain many users"
+''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''
+
+Table(posts, 文章表) {
+    PRIMARY_KEY
+    TIMESTAMPS
+    Column("title", "NVARCHAR[30]", 1, "", "标题")
+    Column("status", UN("TINYINT"), 1, "1", "状态", "1:草稿; 2:已发布")
+    Column("source", UN("TINYINT"), 1, "", "来源：1，原创；2，转载")
+    Column("category_id", PK_TYPE, 1, "", "分类")
+    Column("created_by", PK_TYPE, 1, "0", "创建者ID")
+    Column("published_at", "DATETIME", 0, "", "发表时间")
+    Column("content", "TEXT", 1, "", "内容")
+}
+
+Table(comments, 评论表) {
+    PRIMARY_KEY
+    TIMESTAMPS
+    Column("post_id", PK_TYPE, 1, "", "文章ID")
+    Column("user_id", PK_TYPE, 1, "", "用户ID")
+    Column("content", "NVARCHAR[255]", 1, "", "评论内容")
+}
+
+Table(post_logs, 文章日志表) {
+    PRIMARY_KEY
+    TIMESTAMPS
+    Column("post_id", PK_TYPE, 1, "", "文章ID")
+    Column("user_id", PK_TYPE, 1, "", "操作者ID")
+    Column("action", UN("TINYINT"), 1, "0", "操作类型", "1:创建; 2:修改; 3:删除")
+    Column("data", "TEXT", 0, "", "操作详情")
+}
+
+posts ||..o{ comments
+posts ||..|{ post_logs
+@enduml
+
+@startuml
+skinparam dpi 300
+
+hide methods
+hide stereotypes
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+skinparam linetype ortho
+
+
+class posts as "posts\n(文章表)" << (T,#FFAAAA) >> {
+    <b>id</b> <color:royalBlue><size:8>U_BIGINT[20]
+    created_at <color:royalBlue><size:8>TIMESTAMP\nupdated_at <color:royalBlue><size:8>TIMESTAMP\ndeleted_at <color:royalBlue><size:8>TIMESTAMP
+    <u>title</u> <color:royalBlue><size:8>NVARCHAR[30] <color:green>标题
+    <u>status</u> <color:royalBlue><size:8>U_TINYINT <u>1</u> <color:green>状态\n<size:8><color:gray><i>“1:草稿; 2:已发布”</i></color></size>
+    <u>source</u> <color:royalBlue><size:8>U_TINYINT <color:green>来源：1，原创；2，转载
+    <u>category_id</u> <color:royalBlue><size:8>U_BIGINT[20] <color:green>分类
+    <u>created_by</u> <color:royalBlue><size:8>U_BIGINT[20] <u>0</u> <color:green>创建者ID
+    published_at <color:royalBlue><size:8>DATETIME <color:green>发表时间
+    <u>content</u> <color:royalBlue><size:8>TEXT <color:green>内容
+}
+
+class comments as "comments\n(评论表)" << (T,#FFAAAA) >> {
+    <b>id</b> <color:royalBlue><size:8>U_BIGINT[20]
+    created_at <color:royalBlue><size:8>TIMESTAMP\nupdated_at <color:royalBlue><size:8>TIMESTAMP\ndeleted_at <color:royalBlue><size:8>TIMESTAMP
+    <u>post_id</u> <color:royalBlue><size:8>U_BIGINT[20] <color:green>文章ID
+    <u>user_id</u> <color:royalBlue><size:8>U_BIGINT[20] <color:green>用户ID
+    <u>content</u> <color:royalBlue><size:8>NVARCHAR[255] <color:green>评论内容
+}
+
+class post_logs as "post_logs\n(文章日志表)" << (T,#FFAAAA) >> {
+    <b>id</b> <color:royalBlue><size:8>U_BIGINT[20]
+    created_at <color:royalBlue><size:8>TIMESTAMP\nupdated_at <color:royalBlue><size:8>TIMESTAMP\ndeleted_at <color:royalBlue><size:8>TIMESTAMP
+    <u>post_id</u> <color:royalBlue><size:8>U_BIGINT[20] <color:green>文章ID
+    <u>user_id</u> <color:royalBlue><size:8>U_BIGINT[20] <color:green>操作者ID
+    <u>action</u> <color:royalBlue><size:8>U_TINYINT <u>0</u> <color:green>操作类型\n<size:8><color:gray><i>“1:创建; 2:修改; 3:删除”</i></color></size>
+    data <color:royalBlue><size:8>TEXT <color:green>操作详情
+}
+
+posts ||..o{ comments
+posts ||..|{ post_logs
+@enduml
+
+PlantUML version 1.2021.14(Sat Nov 13 00:46:50 CST 2021)
+(GPL source distribution)
+Java Runtime: OpenJDK Runtime Environment
+JVM: OpenJDK 64-Bit Server VM
+Default Encoding: UTF-8
+Language: en
+Country: null
+--></g></svg>
